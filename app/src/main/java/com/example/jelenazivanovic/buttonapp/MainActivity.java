@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        mButton.setVisibility(View.INVISIBLE);
+      
 
     }
 }
