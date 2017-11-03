@@ -7,8 +7,14 @@
     tools:context="com.example.jelenazivanovic.buttonapp.MainActivity">
 
    <Button
+       android:id="@+id/button1"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
-       android:id="@+id/button1"/>
+       tools:layout_editor_absoluteX="43dp"
+       tools:layout_editor_absoluteY="101dp" />
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/textView"/>
 
 </android.support.constraint.ConstraintLayout>
